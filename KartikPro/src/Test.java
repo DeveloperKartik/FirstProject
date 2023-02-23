@@ -8,5 +8,8 @@ public class Test {
 	{
 	  System.out.println("other method of test class");
 	}
+	public void m1() {
+		System.out.println("M1");
+	}
 	
 }
