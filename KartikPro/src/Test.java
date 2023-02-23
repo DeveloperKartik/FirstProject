@@ -8,4 +8,5 @@ public class Test {
 	{
 	  System.out.println("other method of test class");
 	}
+	
 }
